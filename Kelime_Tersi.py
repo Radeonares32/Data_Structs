@@ -1,0 +1,1 @@
+print("Ankara", reversed("Ankara"))
