@@ -1,2 +1,2 @@
 # Data_Structs
-Example Data Structs
+Data Structures examples
